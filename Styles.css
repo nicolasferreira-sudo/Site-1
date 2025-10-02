@@ -1,0 +1,37 @@
+
+h1{
+	color: #821717;
+}
+
+body{
+	background-color: #739186;
+}
+
+p{
+	color: #313452;
+}
+
+.VioletParagraph{
+	color: #634c70;
+}
+
+table, td{
+	border-style: dashed;
+}
+
+table{
+	border-width: 4px;
+	border-color:#3b3232;
+	margin-left: auto;
+	margin-right: auto;  
+}
+
+td{
+	border-width: 2px;
+	border-color:#323B34;
+}
+body{
+	background-image: url("Background cake.jpg");
+	background-size: x%;
+	background-repeat: x;
+}
