@@ -35,3 +35,33 @@ body{
 	background-size: x%;
 	background-repeat: x;
 }
+
+img{
+	border-radius: 25px;
+}
+
+img:hover{
+	opacity: 0.75
+}
+
+ul{
+	list-style-type: none;
+	background-color:#526670;
+	overflow: hidden;
+}
+
+li a{
+	float: left;
+	display: block;
+	width: 150px;
+	background-color: #6B704C;
+	text-align: center;
+	padding: 15px 15px;
+	text-decoration: none;
+}
+li a:hover{
+	background-color: #C69289;
+}
+.active{
+	border-bottom: 2px solid; background-color: #91837C;
+}
